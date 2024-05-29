@@ -26,3 +26,6 @@ booking.
 ● Per Person Cost: Cost per person.
 ● Total Bill: Total cost of booking.
 ● Converted By: Salesperson who converted the lead.
+
+
+Dashboard Link: https://drive.google.com/file/d/1FeEwt0lEj8_yreKJrT_pRIRwXoCDHQGh/view?usp=sharing
