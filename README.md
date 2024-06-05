@@ -1,4 +1,4 @@
-# Company-Sales-Data-Analysis
+# Company-Sales-Data-Analysis (Power BI Project)
 
 Task is to analyze this data and provide insights into the
 performance of individual salespersons and the sales team as a whole.
